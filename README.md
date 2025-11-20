@@ -1,6 +1,6 @@
 # Halloween Pygame Drawing
 
-A simple Grade 11 Python project using **Pygame** to create a fun Halloween-themed drawing! 🎃👻
+A simple Python project using **Pygame** to create a fun Halloween-themed drawing! 🎃👻
 
 Follow the steps below to install everything and run the program.
 
@@ -58,7 +58,9 @@ Or copy-paste the script manually into a file.
 Make sure you are **inside the halloween folder**, then run:
 
 ```pwsh
-python "grade11 pygame Halloween.py"
+cd Halloween
+python Halloween.py
+
 ```
 
 (You can also copy/paste the script above into this file.)
