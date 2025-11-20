@@ -46,7 +46,7 @@ pip install pygame
 ### 3. Clone this project (optional)
 
 ```pwsh
-git clone <your-repo-url>
+git clone https://github.com/louiswu0408/Halloween.git
 ```
 
 Or copy-paste the script manually into a file.
